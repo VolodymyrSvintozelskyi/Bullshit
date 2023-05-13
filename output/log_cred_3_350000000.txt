@@ -1,0 +1,6 @@
+Result= -6.28319 Error= 1.25189e-11
+ Time = 3.80141
+
+real	0m4.131s
+user	0m11.578s
+sys	0m0.273s
